@@ -21,8 +21,8 @@ Ik zou graag willen leren hoe ik een map kan kapot maken met unity
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| asdasd | --- | --- | --- | --- | --- |
-|week 1 |
+| | --- | --- | --- | --- | --- |
+|week 1 | asdasd | --- | --- | --- | --- ||
 |week 2 |
 
 ## Bronnen
