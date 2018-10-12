@@ -1,6 +1,4 @@
-# Naam Proefopdracht
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
-
+# Destructable map
 Ik heb hier een destructable map gemaakt in unity 
 
 ## Features
@@ -11,21 +9,19 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
 - [Iets unieks waar je trots op bent binnen de project](link)
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+Ik heb verschillende engines opgezocht om te gebruiken zoals Unreal Engine, Unity en Phaser
 
-Ik heb verschillende engines opgezocht om te gebruiken 
+ik heb uiteindelijk voor Unity gekozen want daar weet ik het meest van en ik had goede uitleg gevonden
 
 ## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+Ik zou graag willen leren hoe ik een map kan kapot maken met unity
+
 
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
+| asdasd | --- | --- | --- | --- | --- |
 |week 1 |
 |week 2 |
 
